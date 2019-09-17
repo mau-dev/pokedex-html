@@ -1,0 +1,91 @@
+	  body {
+			background-color: #252934;
+			margin: 0 auto;
+			text-align: center;
+		}
+		header {
+				margin: 100px auto 50px auto;
+		}
+		header h1 {
+			color: white;
+			font-family: 'Fira Sans', sans-serif;
+			font-size: 40px;
+			font-weight: 700;
+		}
+		main {
+			margin: 100px 0;
+		}
+		.column {
+			width: 50%;
+			float: left;
+			height: 500px;
+			text-decoration: none;
+
+			 text-transform: uppercase;
+			 font-family: 'Raleway', sans-serif;
+			 color: white;
+			 font-size: 16px;
+		}
+		tr {
+			height: 100px;
+		}
+		th {
+			color: #DD1B6B;
+			text-align: right;
+			padding-right: 30px;
+		}
+		td {
+			padding: 10px 20px;
+			text-align: left;
+		}
+		tr a {
+			text-decoration: none;
+			background-color: #06C2C9;
+			padding: 10px 20px;
+			color: white;
+		}
+		tr a:hover {
+
+			color: #03595C;
+		}
+		img {
+			border-radius: 100%;
+			width: 300px;
+			height: 300px;
+		}
+
+		ul {
+			padding: 0;
+		   list-style: none;
+		   max-width: 400px;
+		   margin: 0 auto;
+		   text-align: left;
+		   display: inline-block;
+		}
+
+		li {
+
+			 margin: 0 auto;
+			 text-align: left;
+			 margin: 10px auto;
+
+		}
+
+		li a {
+			 text-decoration: none;
+
+			 text-transform: uppercase;
+			 font-family: 'Raleway', sans-serif;
+			 color: white;
+			 font-size: 16px;
+
+
+		}
+
+		li a:hover {
+			color: #DD1B6B;
+		}
+
+		li a:active {
+			color: #DD1B6B;
+		}
